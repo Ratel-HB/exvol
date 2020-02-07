@@ -1,15 +1,12 @@
-[
-  {
-    "allcoin": {
-      "LTC": "http://ya.ru",
-      "ETH": "https://ya.com",
-      "default": "https://toshiba.com"
+{
+  "allcoin" : [
+    {
+      "id" : "litecoin",
+      "link" : "http://ya.ru"
     },
-    "bithumb_global": {
-      "LTC": "https://www.bithumb.pro",
-      "ETH": "https://www.bithumb.pro",
-      "default": "https://www.bithumb.pro"
-    },
-    "default": "https://www.bithumb.pro"
-  }
-]
+    {
+      "id": "ethereum",
+      "link": "https://google.com"
+    }
+  ]
+}
